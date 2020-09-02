@@ -18,6 +18,14 @@
     text-align: center;
 }
 
+.videoCard:hover > .videoCard__title > button {
+    display: inline;
+    background-color: transparent;
+    color: white;
+    border-radius: 8px;
+
+}
+
 .videoCard > img {
     height: 300px;
     object-fit: contain;
@@ -30,4 +38,22 @@
 
 .videoCard__stats {
     display: none;
+}
+
+.videoCard__title > button {
+    display: none;
+}
+
+.videoCard__title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.videoCard__modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
