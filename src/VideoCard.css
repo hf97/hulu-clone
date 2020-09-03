@@ -57,3 +57,25 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+
+@media (max-width: 576px) {
+    .videoCard {
+        width: 280px;
+        height: 200px;
+        padding-top: 75px;
+        padding-bottom: 75px;
+        justify-content: center;
+    }
+    
+    .videoCard > img {
+        height: 200px;
+        object-fit: contain;
+        width: 300px;
+    }
+
+    .videoCard__modal {
+        width: 300px;
+    }
+    
+}
