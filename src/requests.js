@@ -1,3 +1,4 @@
+// API deprecated, just example, should be a environment variable
 const API_KEY = 'd6efa34f3b4071a5e57a230dccfd3be2'
 
 export default {
