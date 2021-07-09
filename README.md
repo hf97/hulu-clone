@@ -1,6 +1,4 @@
-# hulu-clone
-
-Hulu Clone
+# Hulu clone
 
 ![Demo](https://github.com/hf97/hulu-clone/blob/master/demo/demo.gif)
 
