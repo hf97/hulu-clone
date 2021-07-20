@@ -1,5 +1,7 @@
 # Hulu clone
 
+https://hf97-hulu-clone.web.app/
+
 ![Demo](https://github.com/hf97/hulu-clone/blob/master/demo/demo.gif)
 
 <br>
